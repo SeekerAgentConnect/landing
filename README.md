@@ -10,7 +10,7 @@ The public landing page for **Seeker Agent Connect (SAC)**. It is a static site 
 
 ## Links
 
-- Documentation lives in [BrRenat/SeekerAgentConnectDocs](https://github.com/BrRenat/SeekerAgentConnectDocs) and is published at <https://brrenat.github.io/SeekerAgentConnectDocs/docs/getting-started>. The landing page links to pages there by absolute URL (`https://brrenat.github.io/SeekerAgentConnectDocs/docs/<slug>`); update them if the docs move or a slug changes.
+- Documentation lives in [SeekerAgentConnect/docs](https://github.com/SeekerAgentConnect/docs) and is published at <https://seekeragentconnect.github.io/docs/getting-started>. The landing page links to pages there by absolute URL (`https://seekeragentconnect.github.io/docs/<slug>`); update them if the docs move or a slug changes.
 - GitHub, releases, deploy presets, security, and licence links point at [BrRenat/SeekerAgentConnect](https://github.com/BrRenat/SeekerAgentConnect).
 
 ## Local preview
